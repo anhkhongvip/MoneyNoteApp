@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoneyNote</string>
+    <string-array name="category">
+        <item>Mua sam</item>
+        <item>Tien an</item>
+        <item>Tien nha</item>
+        <item>Tien dien</item>
+        <item>Tien nuoc</item>
+        <item>Tien di lai</item>
+    </string-array>
+</resources>
